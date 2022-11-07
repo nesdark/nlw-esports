@@ -11,9 +11,9 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
   <a href="#memo-licença">Licença</a>
 </p>
 
-<p align="center">
+[<p align="center">
   <img alt="License" src="./.github/banner.jpg">
-</p>
+</p>](https://nesdark.github.io/nlw-esports/)
 
 <br>
 
@@ -31,7 +31,7 @@ Este projeto disponibiliza informações sobre os usuários para os visitantes d
 
 ## 🔖 Layout
 
-Você pode visualizar o projeto através [DESSE LINK](https://www.figma.com/community/file/1169028052212317700).
+Você pode visualizar o projeto através [DESSE LINK](https://nesdark.github.io/nlw-esports/).
 
 ## :memo: Licença
 
