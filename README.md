@@ -11,9 +11,9 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
   <a href="#memo-licença">Licença</a>
 </p>
 
-[<p align="center">
+<p align="center">
   <img alt="License" src="./.github/banner.jpg">
-</p>](https://nesdark.github.io/nlw-esports/)
+</p>
 
 <br>
 
